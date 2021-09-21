@@ -1,0 +1,15 @@
+{
+  "name": "oop.ts",
+  "version": "1.0.0",
+  "description": "oop in ts",
+  "main": "src/abstraction.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel-Devloper-p",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
